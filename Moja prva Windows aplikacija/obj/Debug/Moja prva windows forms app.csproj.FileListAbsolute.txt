@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\Moja prva windows forms app\bin\Debug\Moja prva windows forms app.exe.config
+C:\Users\ucenik\source\repos\Moja prva windows forms app\bin\Debug\Moja prva windows forms app.exe
+C:\Users\ucenik\source\repos\Moja prva windows forms app\bin\Debug\Moja prva windows forms app.pdb
+C:\Users\ucenik\source\repos\Moja prva windows forms app\obj\Debug\Moja prva windows forms app.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Moja prva windows forms app\obj\Debug\Moja prva windows forms app.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Moja prva windows forms app\obj\Debug\Moja_prva_windows_forms_app.Form1.resources
+C:\Users\ucenik\source\repos\Moja prva windows forms app\obj\Debug\Moja_prva_windows_forms_app.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Moja prva windows forms app\obj\Debug\Moja prva windows forms app.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Moja prva windows forms app\obj\Debug\Moja prva windows forms app.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Moja prva windows forms app\obj\Debug\Moja prva windows forms app.exe
+C:\Users\ucenik\source\repos\Moja prva windows forms app\obj\Debug\Moja prva windows forms app.pdb
